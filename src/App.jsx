@@ -23,7 +23,6 @@ function App() {
       <div className="main-nav">
         <h1>Find The Best Dog Tricks</h1>
         <p>The Ultimate Collection of Dog Tricks</p>
-        <p>The Ultimate Collection of Dog Tricks</p>
         <div className="category-nav">
           {categories.map((category) => {
             return (
